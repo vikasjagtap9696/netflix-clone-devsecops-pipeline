@@ -4,7 +4,7 @@ A complete DevSecOps project that builds, scans, containerizes, and deploys a Ne
 
 ## 🏗 Architecture
 
-![Netflix Clone DevSecOps Architecture](docs/architecture.png)
+![Netflix Clone DevSecOps Architecture](architecture.png)
 
 > The diagram above is the high-level architecture. The Mermaid version below renders directly on GitHub and shows what this repository actually implements.
 
